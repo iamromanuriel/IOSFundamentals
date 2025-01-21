@@ -13,7 +13,7 @@ struct ContentView: View {
             NavigationStack {
                 VStack {
                     NavigationLink(destination:IMCView()){
-                        Text("Hello")
+                        Text("Start")
                     }
                 }
             }
